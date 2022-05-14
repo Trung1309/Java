@@ -5,3 +5,5 @@ Mk :Abcdd12345@
 Nguyen Quoc Trung
 Tui vừa mới commit thêm nè
 đó đồng vộ được đó
+Tuần 13
+Commit
